@@ -1,5 +1,6 @@
 👋 Hi, I’m Snehal Khatpe
-- 🎓 Master's Student in Business Analytics | 🌐 Data Enthusiast | 💻 Aspiring Data Analyst
+- 🎓 Gradueted with Master of Science Business Analytics | 🌐 Data Enthusiast | 💻 Aspiring Business Data Analyst
+- 6 Years of Experience in Business and Data Analysis | Expertise in Stakeholder Management, Requirement Gathering, Drawing Business Insights, SQL, and Excel
   
 🌱 What I’m currently learning...
 - Python Development: Building a strong foundation in Python for data manipulation and analysis.
@@ -10,6 +11,7 @@
 📫 How to reach me...
 -  LinkedIn: https://www.linkedin.com/in/snehal-khatpe/
 -  E-mail: khatpesnehal94@gmail.com
+-  Mobile: +1 (469) 465-0563
 
 <!---
 Snehal-Khatpe/Snehal-Khatpe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
