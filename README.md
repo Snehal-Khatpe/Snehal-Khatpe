@@ -9,7 +9,7 @@
 - SQL: Enhancing proficiency in SQL for seamless data querying and management.
 
 📫 How to reach me...
--  LinkedIn: https://www.linkedin.com/in/snehal-khatpe/
+-  LinkedIn: https://www.linkedin.com/in/snehal-m-singh/
 -  E-mail: khatpesnehal94@gmail.com
 -  Mobile: +1 (469) 465-0563
 
