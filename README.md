@@ -1,5 +1,5 @@
 👋 Hi, I’m Snehal Khatpe
-- 🎓 Gradueted with Master of Science Business Analytics | 🌐 Data Enthusiast | 💻 Aspiring Business Data Analyst
+- 🎓 Graduated with Master of Science Business Analytics | 🌐 Data Enthusiast | 💻 Aspiring Business Data Analyst
 - 6 Years of Experience in Business and Data Analysis | Expertise in Stakeholder Management, Requirement Gathering, Drawing Business Insights, SQL, and Excel
   
 🌱 What I’m currently learning...
